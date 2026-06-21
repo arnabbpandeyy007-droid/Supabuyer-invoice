@@ -1,0 +1,6 @@
+{
+  "name": "SupaBuyer Invoice",
+  "description": "SupaBuyer Invoice is a 100% free forever professional GST invoicing software for India, designed for wholesalers, manufacturers, service providers, and traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
